@@ -8,9 +8,9 @@ I'm a Software Engineer, Content Creator, and Community Engineer who is currentl
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I am a part time chef. when I'm not creating code,I'm creating food magic.
-- 🌱 I’m currently learning html, CSS, JavaScript, Reactjs, SASS, Nextjs, APIs.
+- 🌱 I’m currently learning html, CSS, Java, Spring, Springboot, Nextjs, APIs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer(Intern or Junior level).
+- 💼 Job interests: Software Engineer, Java full stack Engineer(Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing marrilyno16@gmail.com.
 
 ---
